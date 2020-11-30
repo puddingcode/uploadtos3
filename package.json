@@ -1,0 +1,14 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "upload": "nodemon upload.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.799.0",
+    "global-agent": "^2.1.12",
+    "logplease": "^1.2.15"
+  }
+}
